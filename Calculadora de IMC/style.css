@@ -1,0 +1,57 @@
+body{
+    background-color: #12192a;
+}
+.Box{
+    background-color: #144b80;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 25px;
+    margin-top: 90px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+ 
+}
+.title{
+    font-size:100px;
+    text-align: center;
+    color: #20b5d8;
+    font-style: italic;
+}
+
+.input{
+    font-size: 30px;
+    text-align: center;
+    color: #20dad8;
+    margin-right: 50px;
+    font-style: initial;
+}
+.result{
+    background-color: #141d33;
+    text-align: center;
+    color: #ddefda;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-style: initial;
+    padding: 5% 10%;
+    font-size:20px;
+}
+button {
+    background-color: #12192a;
+    color: #ddefda;
+    border-radius: 25px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 400px;
+    font-size: 18px;
+}
+input{
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 12px;
+    margin-left: 30px;
+    padding-left:30px;
+    text-align: center;
+}
