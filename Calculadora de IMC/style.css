@@ -12,7 +12,7 @@ body{
  
 }
 .title{
-    font-size:100px;
+    font-size:80px;
     text-align: center;
     color: #20b5d8;
     font-style: italic;
@@ -46,6 +46,7 @@ button {
     text-decoration: none;
     margin-left: 400px;
     font-size: 18px;
+    border-style:solid;
 }
 input{
     border-radius: 10px;
